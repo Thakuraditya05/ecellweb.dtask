@@ -1,3 +1,9 @@
+* {
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+  }
 /* ..............only header............................. */
 a {
     color: hsl(233, 8%, 62%);
@@ -369,12 +375,7 @@ img  {
 .htmlfile{
     margin:0px
 }
-* {
-    font-family: "Public Sans", sans-serif;
-    font-optical-sizing: auto;
-    /* font-weight: <weight>; */
-    font-style: normal;
-  } 
+ 
   button:hover{
 
     transform:scale(1.1);
